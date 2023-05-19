@@ -1,3 +1,9 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 # 32-PHP-Design-Patterns
 ## Generative:
 1. Singleton
