@@ -4,7 +4,9 @@
 </div>
 
 
-# 32-PHP-Design-Patterns
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=4000&pause=7&color=0C2AF7&center=true&vCenter=true&multiline=true&width=1400&height=220&lines=Complete+Course+32+Programming+Patterns%2C;+32+PHP+Design+Patterns" alt="Typing SVG" /></a>
+
+
 ## Generative:
 1. Singleton
 2. Factory
